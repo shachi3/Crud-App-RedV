@@ -16,7 +16,7 @@ Before running the application, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/shachi3/Crud-App-RedV.git
    cd server
    ```
 
